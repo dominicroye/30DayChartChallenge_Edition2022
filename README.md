@@ -24,6 +24,12 @@ account.
 → [List of
 Topics](list_prompts.md)
 
+*Data days:*
+
+ 6.  [OWID](https://ourworldindata.org/)
+18. [OECD](https://data.oecd.org/)
+30. [UN Population](https://population.un.org/wpp/)
+
 ## Contributions
 
 Collection of all contributions per day (shared on Twitter with the
