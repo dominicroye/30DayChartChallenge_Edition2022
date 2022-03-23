@@ -26,9 +26,9 @@ Topics](list_prompts.md)
 
 *Data days:*
 
- 6.  [OWID](https://ourworldindata.org/)
-18. [OECD](https://data.oecd.org/)
-30. [UN Population](https://population.un.org/wpp/)
+* Day 6.  [OWID](https://ourworldindata.org/)
+* Day 18. [OECD](https://data.oecd.org/)
+* Day 30. [UN Population](https://population.un.org/wpp/)
 
 ## Contributions
 
@@ -41,7 +41,7 @@ is over.
 *Further links:*
 
 -   [Dedicated list of #Rstats
-    contributions](https://github.com/dominicroye/rstats-chart-challenge-2021)
+    contributions to the 2021 edition](https://github.com/dominicroye/rstats-chart-challenge-2021)
 -   [#30DayChartChallenge](https://twitter.com/search?q=%2330DayChartChallenge)
     on Twitter
 
